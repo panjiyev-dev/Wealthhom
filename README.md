@@ -4,8 +4,6 @@ Professional Real Estate Website with Modern Design and Interactive Features
 
 **Live Demo:** [https://panjiyevdev-hauses.netlify.app/](https://panjiyevdev-hauses.netlify.app/)
 
-![Website Header](https://via.placeholder.com/1920x1080.png?text=Real+Estate+Website+Showcase)
-
 ## 🌟 Project Overview
 
 Modern real estate marketplace featuring:
