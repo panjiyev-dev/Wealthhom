@@ -2,7 +2,7 @@
 
 Professional Real Estate Website with Modern Design and Interactive Features
 
-**Live Demo:** https://panjiyevdev-hauses.netlify.app/
+**Live Demo:** [https://panjiyevdev-hauses.netlify.app/](https://panjiyevdev-hauses.netlify.app/)
 
 ## 🌟 Project Overview
 
